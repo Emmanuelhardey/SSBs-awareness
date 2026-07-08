@@ -1,0 +1,6 @@
+{
+  "name": "Sugar Awareness & Tracking Hub",
+  "description": "An interactive, accessible, and colorful tool to track daily sugar intake, analyze product sugar levels, learn about NCD prevention, and share progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
